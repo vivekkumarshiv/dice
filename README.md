@@ -1,6 +1,6 @@
 # dice
 
-A new Flutter project.
+A new Flutter project that rolls two dices simultaneously and helps you choose any two random numbers.
 
 ## Getting Started
 
